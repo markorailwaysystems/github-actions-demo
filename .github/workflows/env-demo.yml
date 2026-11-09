@@ -2,7 +2,7 @@ name: Environmental Variable Demo
 on: [push]
 
 env:
-  GREETING: "Hello"
+  GREETING: "Hi"
 
 jobs:
   print-greeting:
