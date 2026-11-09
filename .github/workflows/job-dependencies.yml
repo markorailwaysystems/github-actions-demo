@@ -38,3 +38,4 @@ jobs:
           echo "Deploying project"
           ls -R dist
           echo "Deployment successful!"
+          
